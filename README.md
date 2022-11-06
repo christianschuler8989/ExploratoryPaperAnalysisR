@@ -23,39 +23,41 @@ https://www.rstudio.com/
 # How to use
 
 #### Reference-sections from PDF-paper extraction via online-solution:
-https://ref.scholarcy.com/api/
-[Upload a PDF of a scientific paper]
+ * https://ref.scholarcy.com/api/
+ * [Upload a PDF of a scientific paper]
+ 
 
 #### Transforming the extracted references into a BibTex:
-https://anystyle.io/
-[Manually check the references and their number]
-[Copy the references to the online application]
+ * https://anystyle.io/
+ * [Manually check the references and their number]
+ * [Copy the references to the online application]
 
 #### Importing the references to Zotero:
-[Import these into Zotero from file]
+ * [Import these into Zotero from file]
 
 #### Zotero Add-On to collect dois
-https://github.com/bwiernik/zotero-shortdoi 
-[Select the items and acquire the DOIs via Add-On]
- * Get short DOIs
- * Get long DOIS
- * Verify DOIs
+ * https://github.com/bwiernik/zotero-shortdoi 
+ * [Select the items and acquire the DOIs via Add-On]
+   + Get short DOIs
+   + Get long DOIS
+   + Verify DOIs
 
 #### Zotero Add-On to collect citation count based on dois
-https://github.com/eschnett/zotero-citationcounts
-[Select the items and acquire the citation counts via Add-On]
- * Get citation count for CrossRef
- * Get citation count for Google Scholar
+ * https://github.com/eschnett/zotero-citationcounts
+ * [Select the items and acquire the citation counts via Add-On]
+   + Get citation count for CrossRef
+   + Get citation count for Google Scholar
 
 #### Zotero export collection as CSV-file
 
 #### Activate virtual environment:
-[$ conda activate]
-[Use the jupyter-notebook "CitationReformatter.ipynb"]
+ * [$ conda activate]
+ * [Use the jupyter-notebook "CitationReformatter.ipynb"] (still needs some variable-name adjustment by hand)
 
 #### Fun with R
-[Start RStudio and execute the code from the ".Rprofile"]
-[Run the first part of the "script_references.R"]
+ * [Start RStudio and execute the code from the ".Rprofile"]
+ * [Run the first part of the "script_references.R"] (still needs some variable-name adjustment by hand)
+ * [Run "script_authors.R"] (needs manual prior data collection)
 
 ---
 ---
