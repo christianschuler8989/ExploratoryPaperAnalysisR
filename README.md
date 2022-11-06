@@ -1,6 +1,7 @@
 # ExploratoryPaperAnalysisR
 Using R to analyse and visualise collected information regarding scientific papers for an exploratory approach to reviewing scientific papers.
 
+![PaperAnalysis.png](PaperAnalysis.png)
 
 
 # Setup
